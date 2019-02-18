@@ -1,0 +1,11 @@
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/bin/Debug/netcoreapp2.2/DynamicLinqSelectSample.deps.json
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/bin/Debug/netcoreapp2.2/DynamicLinqSelectSample.runtimeconfig.json
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/bin/Debug/netcoreapp2.2/DynamicLinqSelectSample.runtimeconfig.dev.json
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/bin/Debug/netcoreapp2.2/DynamicLinqSelectSample.dll
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/bin/Debug/netcoreapp2.2/DynamicLinqSelectSample.pdb
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.csprojAssemblyReference.cache
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.csproj.CoreCompileInputs.cache
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.AssemblyInfoInputs.cache
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.AssemblyInfo.cs
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.dll
+/Users/burakcaglayan/Projects/DynamicLinqSelectSample/obj/Debug/netcoreapp2.2/DynamicLinqSelectSample.pdb
